@@ -1,6 +1,6 @@
 # protobuf_client_azalea
 
-Client/Backendの両方でJavascriptを利用してProtobuf(Protocol Buffers)を使ってみる。
+Client/Backendの両方でJavascriptを利用してProtobuf(Protocol Buffers)を使ってみて学習することが趣旨です。
 
 このレポジトリはBackend側に該当します。
 
@@ -20,3 +20,7 @@ node backend.js
 
 □ デバッグ用に  http://localhost:3001/dev_debug_encode_person に対してGETのリクエストを送り、
 encodeとdecodeの挙動をterminalのログから確認できます。
+
+
+## 使ったライブラリ
+protobufを使ったエンコードとデコードには https://github.com/protobufjs/protobuf.js を利用しました。
