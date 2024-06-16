@@ -1,4 +1,4 @@
-# protobuf_client_azalea
+# protobuf_backend_azalea
 
 Client/Backendの両方でJavascriptを利用してProtobuf(Protocol Buffers)を使ってみて学習することが趣旨です。
 
