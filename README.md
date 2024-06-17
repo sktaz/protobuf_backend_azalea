@@ -13,6 +13,10 @@ Clientのコード: https://github.com/sktaz/protobuf_client_azalea
 ## 使い方
 □ APIサーバーの始動
 ```
+yarn install
+```
+
+```
 node backend.js
 ```
 
